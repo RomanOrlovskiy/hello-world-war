@@ -12,5 +12,6 @@
 		<%= request.getRemoteAddr()  %></p>
 
 		<p><strong>This page just got update</strong></p>
-		<p><strong>This page just got update again</strong></p>
+		<p><strong>And again</strong></p>
+		<p><strong>And again</strong></p>
 </body>
