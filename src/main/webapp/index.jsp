@@ -11,10 +11,6 @@
 		You are coming from
 		<%= request.getRemoteAddr()  %></p>
 
-
-	<h1>Automatic nodes doing there job</h1>
-
-
 <!--
 		<p><strong>This page just got update</strong></p>
 		<img src="http://cicd.life/images/jenkins_master.jpg">
