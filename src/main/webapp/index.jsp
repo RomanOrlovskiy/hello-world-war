@@ -14,8 +14,8 @@
 
 <h1>Hello World</h1>
 
-<!--
-		<p><strong>This page just got update</strong></p>
+
+		<h1>This page was updated</h1>
 		<img src="http://cicd.life/images/jenkins_master.jpg">
--->
+
 </body>
